@@ -1,0 +1,19 @@
+Results for: A School
+Coach: coach-a (9)
+Students: student-a, student-d, student-g, student-j, student-m, student-p, student-s, student-v, student-y
+Coach: coach-b (9)
+Students: student-b, student-e, student-h, student-k, student-n, student-q, student-t, student-w, student-z
+Coach: coach-c (8)
+Students: student-c, student-f, student-i, student-l, student-o, student-r, student-u, student-x
+------- (adding coaches and students) --------
+Results for: A School
+Coach: coach-a (11)
+Students: student-a, student-d, student-g, student-j, student-m, student-p, student-s, student-v, student-y, student-T, student-Y
+Coach: coach-b (11)
+Students: student-b, student-e, student-h, student-k, student-n, student-q, student-t, student-w, student-z, student-U, student-Z
+Coach: coach-c (10)
+Students: student-c, student-f, student-i, student-l, student-o, student-r, student-u, student-x, student-Q, student-V
+Coach: coach-d (10)
+Students: student-A, student-C, student-E, student-G, student-I, student-K, student-M, student-O, student-R, student-W
+Coach: coach-e (10)
+Students: student-B, student-D, student-F, student-H, student-J, student-L, student-N, student-P, student-S, student-X
