@@ -40,11 +40,6 @@ class Coach
         @name = name
         @students = []
     end
-    
-    def list()
-        # show coach + call show on all student objects
-        return @name + ": " + @students
-    end
 
 end
 
@@ -54,10 +49,6 @@ class Student
 
     def initialize(name)
         @name = name
-    end
-
-    def list()
-       puts @name 
     end
 
 end
